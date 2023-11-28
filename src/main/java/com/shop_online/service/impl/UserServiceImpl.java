@@ -1,8 +1,8 @@
-package com.social.service.impl;
+package com.shop_online.service.impl;
 
-import com.social.entity.User;
-import com.social.mapper.UserMapper;
-import com.social.service.UserService;
+import com.shop_online.entity.User;
+import com.shop_online.mapper.UserMapper;
+import com.shop_online.service.UserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  *  服务实现类
  * </p>
  *
- * @author ycshang
+ * @author ldh
  * @since 2023-11-28
  */
 @Service

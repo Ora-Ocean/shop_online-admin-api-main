@@ -1,7 +1,9 @@
-package com.social.service;
+package com.shop_online.service;
 
-import com.social.entity.User;
+
 import com.baomidou.mybatisplus.extension.service.IService;
+import org.apache.catalina.User;
+
 
 /**
  * <p>
